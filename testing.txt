@@ -1,0 +1,5 @@
+[+] Dijkstra: 
+	20C - Dijkstra
+
+[+] Sieve of eatoshenes: 
+	26A - Almost Prime
