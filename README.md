@@ -31,7 +31,7 @@
 * **Hashing** — String hashing and polynomial hashing techniques for fast comparisons.
 * **Interactive** — Interactive problems that require communication with the judge.
 * **KMP** — String matching algorithms such as Prefix Function, Z-function, and Knuth–Morris–Pratt (KMP).
-* **Large Integers** — Problems involving very large numbers (greater than 10^18).
+* **BigNum** — Problems involving very large numbers (greater than 10^18).
 * **Math** — Problems involving mathematical concepts such as number theory, combinatorics, and modular arithmetic.
 * **Meet in the Middle** — Technique that splits a problem into two halves to reduce complexity.
 * **Persistent** — Persistent data structures that allow access to previous versions.
@@ -44,7 +44,7 @@
 * **Trees** — Problems involving rooted trees and tree traversal techniques.
 * **Trie** — Problems using the Trie (Prefix tree) data structure and its applications.
 * **Two Pointers** — Two pointers technique for efficient array or string processing.
-* **Virtual Tree** — Virtual tree construction used to process queries on subsets of tree nodes efficiently.
+* **VT** — Virtual tree construction used to process queries on subsets of tree nodes efficiently.
 
 ## Credits
 - ChatGPT for fixing my english grammar.
