@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+#define endl '\n'
+using namespace std;
+
+int main()
+{
+    string s;
+    cin >> s;
+    cout << (s.find("AB") != -1 && s.find("BA", s.find("AB") + 2) != -1 || s.find("BA") != -1 && s.find("AB", s.find("BA") + 2) != -1 ? "YES" : "NO") << endl;
+    return 0;
+}
