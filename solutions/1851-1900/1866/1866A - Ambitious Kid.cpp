@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+#define endl '\n'
+using namespace std;
+
+int main()
+{
+    int n, ans = INT_MAX;
+    cin >> n;
+    for(int i = 0; i < n; i++)
+    {
+        int x;
+        cin >> x;
+        ans = min(ans, abs(x));
+    }
+
+    cout << ans << endl;
+    return 0;
+}
