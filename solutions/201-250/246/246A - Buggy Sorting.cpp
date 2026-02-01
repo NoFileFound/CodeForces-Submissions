@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+#define endl '\n'
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    if(n < 3)
+    {
+        cout << -1 << endl;
+        return 0;
+    }
+
+    cout << "3 2 1" << ' ';
+    for(int i = 4; i <= n; i++)
+        cout << i << ' ';
+
+    cout << endl;
+    return 0;
+}
