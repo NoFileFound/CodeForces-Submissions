@@ -4,3 +4,4 @@
 |------------|------------------|------------|----------|
 | [1971A](https://codeforces.com/problemset/problem/1971/A) | **My First Sorting Problem** | I |  |
 | [1971B](https://codeforces.com/problemset/problem/1971/B) | **Different String** | II | String, Bruteforce, Searching |
+| [1971C](https://codeforces.com/problemset/problem/1971/C) | **Clock and Strings** | II | Math |

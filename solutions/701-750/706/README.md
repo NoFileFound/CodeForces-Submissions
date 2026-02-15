@@ -3,3 +3,4 @@
 | ID | **Problem Name** | Difficulty | **Tags** |
 |------------|------------------|------------|----------|
 | [706A](https://codeforces.com/problemset/problem/706/A) | **Beru-taxi** | I | Math, Geometry, Bruteforce |
+| [706B](https://codeforces.com/problemset/problem/706/B) | **Interesting drink** | II | DP, Searching |

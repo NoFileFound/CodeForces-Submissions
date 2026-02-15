@@ -4,3 +4,4 @@
 |------------|------------------|------------|----------|
 | [339A](https://codeforces.com/problemset/problem/339/A) | **Helpful Maths** | II | String, Sorting, Data structure, Greedy |
 | [339D](https://codeforces.com/problemset/problem/339/D) | **Xenia and Bit Operations** | IV | ST, Searching, Data structure, Tree |
+| [339B](https://codeforces.com/problemset/problem/339/B) | **Xenia and Ringroad** | I | Math |

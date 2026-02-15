@@ -3,3 +3,4 @@
 | ID | **Problem Name** | Difficulty | **Tags** |
 |------------|------------------|------------|----------|
 | [1400A](https://codeforces.com/problemset/problem/1400/A) | **String Similarity** | II | String |
+| [1400C](https://codeforces.com/problemset/problem/1400/C) | **Binary String Reconstruction** | V | 2SAT, String, Greedy |

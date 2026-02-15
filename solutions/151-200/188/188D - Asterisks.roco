@@ -1,0 +1,22 @@
+co __prinrow {
+	lt [3] [1] [2]
+	if [3]
+		ac
+	cout 42
+	inc [2]
+}
+ 
+co __printline {
+	lt [3] [0] [1]
+	if [3]
+		ac
+	set [2] 1
+	ca __prinrow
+	cout 10
+	inc [1]
+}
+ 
+iin [0]
+set [1] 1
+ca __printline
+ac
